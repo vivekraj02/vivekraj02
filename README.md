@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on **a Student Part-Time Job Platform** (Java microservices, Spring Boot, Kafka, PostgreSQL)<br>- 👯 I'm looking to collaborate on **open-source backend or networking tools**<br>- 🤝 I'm looking for help with **system design at scale and distributed systems patterns**<br>- 🌱 I'm currently learning **Spring Cloud, Kafka internals, and System Design**<br>- 💬 Ask me about **Deep Packet Inspection, Network Security, Python automationt**<br>- ⚡ Fun fact **I can identify your app just by reading its encrypted network traffic — no decryption needed!**
+- 🔭 I'm currently working on **a Student Part-Time Job Platform** (Java microservices, Spring Boot, Kafka, PostgreSQL)<br>- 👯 I'm looking to collaborate on **open-source backend or networking tools**<br>- 🤝 I'm looking for help with **system design at scale and distributed systems patterns**<br>- 🌱 I'm currently learning **Spring Cloud, Kafka internals, and System Design**<br>- 💬 Ask me about **Deep Packet Inspection, Network Security, Python automation**<br>- ⚡ Fun fact **I can identify your app just by reading its encrypted network traffic — no decryption needed!**
 
 
 ## 🌐 Socials:
